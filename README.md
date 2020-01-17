@@ -24,8 +24,8 @@ Realiza un método main en la clase para probar todo lo anterior.
 String normaltoAmericano(String). Este método convierte una fecha en formato normal dd/mm/yyyy a formato americano mm/dd/yyyy.
 String americanotonormal(String). Este método realiza el paso contrario, convierte fechas en formato americano a formato normal.
 
-6. Ejercicio: Realiza una clase Test en con un método main que tome por teclado dos números y muestre la suma, multiplicación, división y módulo. En el caso de que el segundo número sea
+7. Ejercicio: Realiza una clase Test en con un método main que tome por teclado dos números y muestre la suma, multiplicación, división y módulo. En el caso de que el segundo número sea
 0, el programa deberá de atrapar las excepciones que se puedan producir. Para la resolución de este problema necesitarás utilizar wrappers.
 
-7. Ejercicio: Diseña una clase con un método que permita averiguar la última cifra de un número introducido por teclado. Para la resolución de este problema deberás utilizar wrappers de tipos
+6. Ejercicio: Diseña una clase con un método que permita averiguar la última cifra de un número introducido por teclado. Para la resolución de este problema deberás utilizar wrappers de tipos
 numéricos.
